@@ -1,0 +1,1 @@
+Bombito is a radio automation software what is being dessigned in Python, Java and C languages.
